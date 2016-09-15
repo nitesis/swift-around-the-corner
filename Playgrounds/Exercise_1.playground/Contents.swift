@@ -77,7 +77,7 @@ result = i
 
 let result = (1...100)
     .filter{n in isPrime(n)}
-.reduce(0)
+    .reduce(0)
 
 
 //: (Optional)
